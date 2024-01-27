@@ -1,3 +1,4 @@
+![logo](https://github.com/tanveermarne20/tanveermarne20/blob/main/Linkdedinbackgroundanalytics.png)
 <h1 align="center">Hi 👋, I'm Tanveer Marne</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 

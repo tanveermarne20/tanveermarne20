@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/marnetanveer20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marnetanveer20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvirmarne2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirmarne2024" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tanvirmarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tanvirmarne" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/tanvirmarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tanvirmarne/code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

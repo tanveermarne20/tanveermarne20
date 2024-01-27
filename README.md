@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanvir Marne</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a0/d4/16/a0d41629b9ade1749a96519ccc315db4.gif"></img>
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/a0/d4/16/a0d41629b9ade1749a96519ccc315db4.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveermarne20&label=Profile%20views&color=0e75b6&style=flat" alt="tanveermarne20" /> </p>
 
